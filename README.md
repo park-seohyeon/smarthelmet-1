@@ -1,9 +1,16 @@
 
+# 개발 제품: nrf52832 nordic Thingy 52
+# 개발 언어: C, JAVA
+# 개발 툴: SEGGER Embedded Studio, Android Studio, Microsoft Azure
+# 개발 기간: 2개월
+# 맡은 역할: 펌웨어 개발 및 안드로이드 개발
+
 # 기본 구성 구조
 
 ![image](https://user-images.githubusercontent.com/48435474/70015456-bbfc4e00-15c0-11ea-8e70-f75c78276813.png)
 
 # 센서 임계치 초과시 알림기능
+센서 임계치 초과시 스피커를 통해 경고 알림음을 발생하고 BLE를 통해 해당 센서값을 Android App으로 
 
 ![image](https://user-images.githubusercontent.com/48435474/70015510-f49c2780-15c0-11ea-87eb-041e209f0fab.png)
 
