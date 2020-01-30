@@ -1,9 +1,9 @@
 
 # 개발 제품: nrf52832 nordic Thingy 52
-# 개발 언어: C, JAVA
-# 개발 툴: SEGGER Embedded Studio, Android Studio, Microsoft Azure
+# 개발 언어: JAVA, SQL
+# 개발 툴: Android Studio, Microsoft Azure
 # 개발 기간: 2개월
-# 맡은 역할: 펌웨어 개발 및 안드로이드 개발
+# 맡은 역할: 안드로이드 앱 개발, Azure DB 연동
 <br>
 
 # 기본 구성 구조
